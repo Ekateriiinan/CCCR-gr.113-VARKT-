@@ -1,4 +1,4 @@
-Ссылка на диск: https://drive.google.com/file/d/177sq-3Edg1FguN8hKnkCe5-AdWKLP5xG/view?usp=drive_link
+Ссылка на диск:https://drive.google.com/drive/folders/1zpmtdOkDITHujvNHe2ilySYIH64L6rIB?usp=drive_link
 
 План работы над проектом:
 15 - 30 сентября - сбор информации и анализ информации 
