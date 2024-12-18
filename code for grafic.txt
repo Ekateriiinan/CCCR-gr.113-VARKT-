@@ -86,14 +86,5 @@ plt.xlabel("Время, с")
 plt.legend()
 plt.grid(True)
 
-# График массы
-plt.subplot(3, 1, 3)
-plt.step(time, M, 'g', linewidth=2, where='post', label="Масса ракеты")
-plt.title("График изменения массы ракеты")
-plt.ylabel("Масса, т")
-plt.xlabel("Время, с")
-plt.legend()
-plt.grid(True)
-
 plt.tight_layout()
 plt.show()
